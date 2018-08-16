@@ -1,9 +1,5 @@
 absl-py==0.1.13
 alabaster==0.7.9
-anaconda-clean==1.0
-anaconda-client==1.5.1
-anaconda-navigator==1.8.4
-anaconda-project==0.8.2
 argcomplete==1.0.0
 astor==0.6.2
 astroid==1.4.7
